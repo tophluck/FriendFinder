@@ -1,0 +1,52 @@
+var friends = [
+    {
+    "name":"Appa",
+    "picture":"https://img.alicdn.com/imgextra/i3/412352104/TB2Md56gpXXXXaJXXXXXXXXXXXX_!!412352104.jpg",
+    "scores":[
+        1,
+        2,
+        3,
+        4,
+        5,
+        1,
+        2,
+        3,
+        4,
+        5
+        ]
+    },
+    {
+    "name":"Aang",
+    "picture":"https://vignette.wikia.nocookie.net/avatar/images/7/79/Pilot_-_Aang.png/revision/latest?cb=20120311133235",
+    "scores":[
+        1,
+        1,
+        2,
+        2,
+        3,
+        3,
+        4,
+        4,
+        5,
+        5
+        ]
+    },
+    {
+    "name":"Momo",
+    "picture":"https://vignette.wikia.nocookie.net/avatar/images/4/43/Inquisitive_Momo.png/revision/latest?cb=20081225191217",
+    "scores":[
+        4,
+        5,
+        4,
+        3,
+        4,
+        3,
+        2,
+        2,
+        5,
+        1
+        ]
+    },
+];
+
+module.exports = friends;
